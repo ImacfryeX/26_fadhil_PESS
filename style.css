@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+body { background-image: linear-gradient(color, color); }
+
+html {
+height: 120%;
+}
+body {
+background-color: #BFBFBF;
+}
